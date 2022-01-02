@@ -3,11 +3,11 @@ A Powerful Userbot in Telegram. Based On Pyrogram.
 Credits To : Nexa-User-Bot
 
 <h1 align="center"> 
-  🌠 Nexa Userbot 🌠
+  🌠 SlapTap Userbot 🌠
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/a2471aa31028b2c429390.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph//file/41b89aec4a85a51aab4a1.png" width="300" height="300"></a> </br>
   <b>A Simple, Easy to use and light-weight Pyrogram Userbot</b>
 </p>
 
@@ -15,10 +15,7 @@ Credits To : Nexa-User-Bot
 Deployment is easy! Just [read the docs](https://nexaub.itz-fork.xyz/docs/get-started/) to get more info!
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Nexa-Userbot)
-
-### With VPS (Local)
-Please Read the [Docs](https://nexaub.itz-fork.xyz/docs/get-started/installation/#with-vps-local).
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamSlapTap/SlapTap-User-Bot)
 
 # Config Vars 📚,
 
