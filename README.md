@@ -12,7 +12,7 @@ Credits To : Nexa-User-Bot
 </p>
 
 # Deploy 🛫
-Deployment is easy! Just [read the docs](https://nexaub.itz-fork.xyz/docs/get-started/) to get more info!
+Deployment is easy!
 
 ### With Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamSlapTap/SlapTap-User-Bot)
