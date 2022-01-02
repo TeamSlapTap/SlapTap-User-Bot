@@ -7,8 +7,8 @@
         "Telegram Bot",
         "slaptap userbot"
     ],
-    "website": "https://t.me/TeamInfinityGO",
-    "repository": "https://github.com/TeamInfinityGO",
+    "website": "https://t.me/SlapTap",
+    "repository": "https://github.com/TeamSlapTap/SlapTap-User-Bot",
     "success_url": "https://t.me/SlapTap",
     "env": {
         "APP_ID": {
