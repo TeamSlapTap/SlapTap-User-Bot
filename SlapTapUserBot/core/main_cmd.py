@@ -1,5 +1,4 @@
-# Copyright (c) 2021 Itz-fork
-# Part of: Nexa-Userbot
+# Copyright (c) 2022 | SlapTap
 import logging
 import asyncio
 import os
@@ -90,13 +89,13 @@ def nexaub_on_cmd(
 **Traceback:**
 `{e}`
 
-Forward this to @DarkFinityBots
+Forward this to @SlapTaps
 """
                 if len(error_text) > 4000:
                     file = open("error_nexaub.txt", "w+")
                     file.write(error_text)
                     file.close()
-                    await NEXAUB.send_document(LOG_CHANNEL_ID, "error_nexaub.txt", caption="`Error of Nexa Userbot`")
+                    await NEXAUB.send_document(LOG_CHANNEL_ID, "error_nexaub.txt", caption="`Error of SlapTap Userbot`")
                     os.remove("error_nexaub.txt")
                 else:
                     await NEXAUB.send_message(chat_id=LOG_CHANNEL_ID, text=error_text)
@@ -123,13 +122,13 @@ def nexaub_on_cf(custom_filters):
 **Traceback:**
 `{e}`
 
-Forward this to @NexaUB_Support
+Forward this to @SlapTaps
 """
                 if len(error_text) > 4000:
                     file = open("error_nexaub.txt", "w+")
                     file.write(error_text)
                     file.close()
-                    await NEXAUB.send_document(LOG_CHANNEL_ID, "error_nexaub.txt", caption="`Error of Nexa Userbot`")
+                    await NEXAUB.send_document(LOG_CHANNEL_ID, "error_nexaub.txt", caption="`Error of SlapTap Userbot`")
                     os.remove("error_nexaub.txt")
                 else:
                     await NEXAUB.send_message(chat_id=LOG_CHANNEL_ID, text=error_text)
